@@ -882,6 +882,7 @@ message EventRecord {
    string referenceID = 9;
    // the resource value if the change involves setting/modifying a resource
    Resource resource = 10;
+   string state = 11;
 
    reserved 3;
    reserved "groupID";
