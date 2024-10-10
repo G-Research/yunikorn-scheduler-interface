@@ -17,7 +17,7 @@
 // under the License.
 //
 
-module github.com/apache/yunikorn-scheduler-interface
+module github.com/G-Research/yunikorn-scheduler-interface
 
 go 1.21
 
